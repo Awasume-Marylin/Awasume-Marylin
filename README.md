@@ -1,3 +1,5 @@
-# [ANALYSING SUPERMARKET DATA](https://github.com/Awasume-Marylin/Supermarket)
+# [ANALYZING SUPERMARKET DATA](https://github.com/Awasume-Marylin/Supermarket)
 This project analysis is aimed at answering basic business questions using SQL queries. By answering this basic questions, i am able to gain insights on trends and make data driven decisions. Some of the questions answered were; what were the total profit for each product category?, which customers signed up in 2019 and what were their total orders?, which meals had no orders?, which orders had invalid customer Id?
    
+# [STUDYING SUPER STORE DATA](https://github.com/Awasume-Marylin/Superstore-Sales-Data)
+This project analysis is aimed at gaining insights on sales in different regions and the highest selling category. Through this insights i will be able to discover trends and make data driven decisions and also give recommendation. Some of the questions i answered here were; what was the profit and returns per region?, what was the average margin per region?, what was the furniture with the highest profit?, what was the regional return rate?
