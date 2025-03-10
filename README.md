@@ -19,3 +19,6 @@ This projects shows all the employee information usually found in HR systems suc
 ![alt](https://github.com/Awasume-Marylin/HR-Dashboards/blob/ceb49e3f1b2f52a138ccc639db40c7f6b83d0002/Dashboards/Details_Dashboards.png)
 
 
+# [Cyclistic Bike-Share Case Study: Data-Driven Insights for Rider Behavior]()
+
+
