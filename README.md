@@ -23,6 +23,6 @@ This projects shows all the employee information usually found in HR systems suc
 
 This project aims to uncover key insights about Cyclistic, a bike-share company. By analyzing ride data, I explore usage patterns and behavioral differences between annual members and casual riders. The goal is to identify trends that can drive data-informed decisions and strategic improvements for the company. The Key question i was tasked to answer is " how do annual member and casual riders use cyclistic bike differently?
 
-![alt](
+![alt](https://github.com/Awasume-Marylin/Cyclistic-bike-share/blob/f0402fc866873902ff85a8080b1151ea64f55bbf/Charts/Total_percentage_annual_rides.png)
 
 
