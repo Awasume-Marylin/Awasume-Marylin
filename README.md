@@ -1,5 +1,5 @@
 # [Social Buzz: Social media & content creation](https://github.com/Awasume-Marylin/Social-Buzz)
-This project is aimed at gaining insights about social buzz, a social media company so as to make data driven decisions, and recommendations. The key questions i was tasked to answer were; - An audit of their big data practice, Recommendations for a successful IPO, An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
+This project analyzes user engagement and trends on the Social Buzz platform to uncover key insights. By leveraging data-driven methodologies, it aims to identify patterns, optimize user experience, and provide actionable recommendations for strategic decision-making. The key questions i was tasked to answer were; - An audit of their big data practice, Recommendations for a successful IPO, An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
 
 ![alt](https://github.com/Awasume-Marylin/Social-Buzz/blob/478c5255a7857d528268ce01a1b202e838cb9268/Output/Top_5_categories.png)
 
