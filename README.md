@@ -1,3 +1,10 @@
+# [Analyzing Daikibo Telemetry Data to uncover insights](https://github.com/Awasume-Marylin/Daikibo-Telemetry-Data)
+This project is aimed at discovering insights on the macchine breakage and the time of machines that break the most. This was analysed on a dashboardd to gain insights and make informed data driven decisions. The questions i was tasked to answer were; In which location did machine break the most? and What are the machines that broke most often in that location?.
+
+![alt](https://github.com/Awasume-Marylin/Daikibo-Telemetry-Data/blob/186e3a95ff26c12b3bda16e604dec25ec45cdc42/output/Dashboard.png)
+
+
+
 # [Retail Data Analysis: Understanding Retail online store Performance Surge](https://github.com/Awasume-Marylin/Retail-online-store)
 This project is aimed at diving into the reason for the success of the online retail store in the present year and implementing the same measures in the coming year so as to maintain increasing revenues. This data helped to me uncover insights, make data driven decisions and recommendations. The questions i was tasked to answer were; What is the seasonal trends of revenue for the year of 2011?, What are the top 10 countries generating the highest revenue and quantity?, Who are the top 10 customers?, Which countries have the highest demand for their products?.
 
