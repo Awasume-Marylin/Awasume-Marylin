@@ -1,5 +1,11 @@
+# [Discovering trends and insights on plantain chips data survey](https://github.com/Awasume-Marylin/Plantain-chips-survey)
+This data analysis project is aimed at showing the most loved plantain chips type amongst consumers. By analyzing the survey data taken by the company from consumers, we seek to identify trends, make data driven decisions and give recommendations.
+
+![alt](https://github.com/Awasume-Marylin/Plantain-chips-survey/blob/40b6b4b5034ca45d23550a1b291b860d94fb875b/Results/Percentage_of_chips_type.png)
+
+
 # [Analyzing Daikibo Telemetry Data to uncover insights](https://github.com/Awasume-Marylin/Daikibo-Telemetry-Data)
-This project is aimed at discovering insights on the macchine breakage and the time of machines that break the most. This was analysed on a dashboardd to gain insights and make informed data driven decisions. The questions i was tasked to answer were; In which location did machine break the most? and What are the machines that broke most often in that location?.
+This project is aimed at discovering insights on the machine breakage and the time of machines that break the most. This was analysed on a dashboardd to gain insights and make informed data driven decisions. The questions i was tasked to answer were; In which location did machine break the most? and What are the machines that broke most often in that location?.
 
 ![alt](https://github.com/Awasume-Marylin/Daikibo-Telemetry-Data/blob/186e3a95ff26c12b3bda16e604dec25ec45cdc42/output/Dashboard.png)
 
