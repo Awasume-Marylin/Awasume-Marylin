@@ -1,3 +1,9 @@
+# [Automated Report Card System: Exam calculation and results made easy]((https://github.com/Awasume-Marylin/Automated-Report-Card-System)
+This project is designed to reduce the work load of teachers and also reduce errors when entering and calculating the marks of students. It also prints students report card automatically. 
+
+![alt](Output/Report-card.png)
+
+
 # [Discovering trends and insights on plantain chips data survey](https://github.com/Awasume-Marylin/Plantain-chips-survey)
 This data analysis project is aimed at showing the most loved plantain chips type amongst consumers. By analyzing the survey data taken by the company from consumers, we seek to identify trends, make data driven decisions and give recommendations.
 
